@@ -1,0 +1,1 @@
+ALTER TABLE "form_filling"."fields" ADD COLUMN "options" jsonb;

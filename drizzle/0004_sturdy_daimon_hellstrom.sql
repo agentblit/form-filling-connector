@@ -1,0 +1,1 @@
+ALTER TABLE "form_filling"."fields" ADD COLUMN "nested_fields" jsonb;
